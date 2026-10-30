@@ -10,8 +10,8 @@ The main goals of this personal space are to sharpen my problem-solving skills, 
 
 I actively practice and participate in contests across these competitive programming platforms:
 
-| Platform | Username / Profile | Main Focus |
-| :--- | :--- | :--- |
+| Platform | Username / Profile |
+| :--- | :--- |
 | **Codeforces** | [@fauzimukhtary](https://codeforces.com/profile/fauzimukhtary "Codeforces Profile") |
 | **LeetCode** | [@fauzimukhtary](https://leetcode.com/u/fauzimukhtary/ "LeetCode Profile") |
 | **TLX Toki** | [@fauzimukhtary](https://tlx.toki.id/profiles/fauzimukhtary "TLX Toki Profile") |
