@@ -12,9 +12,10 @@ I actively practice and participate in contests across these competitive program
 
 | Platform | Username / Profile | Main Focus |
 | :--- | :--- | :--- |
-| **Codeforces** | [@fauzimukhtary](https://codeforces.com/profile/fauzimukhtary "Codeforces Profile") | Weekly contests & Div 2/3/4 |
-| **LeetCode** | [@fauzimukhtary](https://leetcode.com/u/fauzimukhtary/ "LeetCode Profile") | Data Structures & Algorithm mastery |
-| **TLX Toki** | [@fauzimukhtary](https://tlx.toki.id/profiles/fauzimukhtary "TLX Toki Profile") | Language basics & national contest prep |
+| **Codeforces** | [@fauzimukhtary](https://codeforces.com/profile/fauzimukhtary "Codeforces Profile") |
+| **LeetCode** | [@fauzimukhtary](https://leetcode.com/u/fauzimukhtary/ "LeetCode Profile") |
+| **TLX Toki** | [@fauzimukhtary](https://tlx.toki.id/profiles/fauzimukhtary "TLX Toki Profile") |
+| **AtCoder** | [@fauzimukhtary](https://atcoder.jp/users/fauzimukhtary "AtCoder Profile") |
 <!-- | **HackerRank** | [@username](https://hackerrank.com "HackerRank Profile") | Basic syntax implementation | -->
 
 ---
